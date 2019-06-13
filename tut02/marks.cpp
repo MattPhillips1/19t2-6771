@@ -2,7 +2,7 @@
 #include <list>
 
 int main() {
-  std::list studentMarks;
+  std::list<int> studentMarks;
   studentMarks.push_back(63);
   studentMarks.push_back(67);
   studentMarks.push_back(69);
